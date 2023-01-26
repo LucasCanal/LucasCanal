@@ -10,7 +10,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Student
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
