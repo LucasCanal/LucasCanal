@@ -6,7 +6,7 @@
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, REACT, Next.js, Node.JS**
 
 <br><br>
 
