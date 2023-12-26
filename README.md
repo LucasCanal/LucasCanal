@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasCanal/1868166a62fd747c2ff3a15c044fe1cd/raw/e54adddfb7a40f33a853f643a048bff1c455ae9f/githubcard.svg"/>
+<img align="right" height="555em" src="https://raw.githubusercontent.com/gist/LucasCanal/1868166a62fd747c2ff3a15c044fe1cd/raw/e54adddfb7a40f33a853f643a048bff1c455ae9f/githubcard.svg"/>
 <h1 align="left">Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Canal</h1>
 
 ## About me:
@@ -26,8 +26,8 @@ I Love code and create new stuff, i like too much to discover new technologies a
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" alt="luca's stats"/>
-<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="550em" src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" alt="luca's stats"/>
+<img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 -->
 
