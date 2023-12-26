@@ -26,8 +26,8 @@ I Love code and create new stuff, i like too much to discover new technologies a
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" alt="luca's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="550em" src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" alt="luca's stats"/>
+<img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 -->
 
