@@ -8,7 +8,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 - 💬 Ask me about **JavaScript, HTML, CSS, REACT, Next.js, Node.JS**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Student
 
