@@ -1,44 +1,60 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LucasCanal/1868166a62fd747c2ff3a15c044fe1cd/raw/e54adddfb7a40f33a853f643a048bff1c455ae9f/githubcard.svg"/>
-<h1 align="left">Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Canal</h1>
-
-## About me:
-
-
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
-
-- 💬 Ask me about **JavaScript, HTML, CSS, REACT, Next.js, Node.JS**
-
-<br>
-
-## 🛠 &nbsp;Tech Student
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="left">
+  Hey, I'm Lucas 👋
+</h1>
 
 <p align="left">
-<img width="550em" src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" alt="luca's stats"/>
-<img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
+Frontend Developer focused on building clean, functional and user-centered interfaces.
 </p>
 
-<br><br>
+---
 
-## Contact
+## 🚀 About me
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/lucas-canal-felix-9710b1199" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucascanal-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lucaascanal/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucascanal-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+I enjoy turning ideas into real projects and exploring new technologies along the way.  
+I'm always looking to improve my skills and build things that actually solve problems.
+
+- 💻 Focused on **JavaScript, React, Next.js**
+- ⚡ Currently exploring deeper concepts in frontend architecture
+- 🎯 Interested in building real-world, scalable projects
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-0f0f0f?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-0f0f0f?style=flat&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-0f0f0f?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-HTML-0f0f0f?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS-0f0f0f?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Git-0f0f0f?style=flat&logo=git"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" 
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascanal&layout=compact&theme=vision-friendly-dark" 
+  />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://linkedin.com/in/lucas-canal-felix-9710b1199" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0f0f0f?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/lucaascanal/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-0f0f0f?style=flat&logo=instagram"/>
+  </a>
 </p>
