@@ -3,32 +3,47 @@
 </h1>
 
 <p align="left">
-Frontend Developer focused on building clean, functional and user-centered interfaces.
+Frontend developer expanding into backend, building clean and functional fullstack applications.
 </p>
 
 ---
 
 ## 🚀 About me
 
-I enjoy turning ideas into real projects and exploring new technologies along the way.  
-I'm always looking to improve my skills and build things that actually solve problems.
+I like turning ideas into real projects and exploring how things work both on the interface and behind the scenes.
 
-- 💻 Focused on **JavaScript, React, Next.js**
-- ⚡ Currently exploring deeper concepts in frontend architecture
-- 🎯 Interested in building real-world, scalable projects
+- 💻 Working with **JavaScript, React, Next.js, Node.js**
+- ⚙️ Learning more about **backend architecture, databases and APIs**
+- 🎯 Focused on building real-world and scalable applications
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+### Frontend
+<p>
   <img src="https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/-React-0f0f0f?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Next.js-0f0f0f?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/-Node.js-0f0f0f?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-0f0f0f?style=flat&logo=tailwind-css"/>
   <img src="https://img.shields.io/badge/-HTML-0f0f0f?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS-0f0f0f?style=flat&logo=css3"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-0f0f0f?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-MongoDB-0f0f0f?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-SQL-0f0f0f?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-REST%20API-0f0f0f?style=flat"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/-Docker-0f0f0f?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-0f0f0f?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-0f0f0f?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-VSCode-0f0f0f?style=flat&logo=visual-studio-code"/>
 </p>
 
 ---
@@ -38,7 +53,7 @@ I'm always looking to improve my skills and build things that actually solve pro
 <p align="left">
   <img 
     height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark" 
+    src="https://github-readme-stats.vercel.app/api?username=lucascanal&show_icons=true&theme=vision-friendly-dark&count_private=true" 
   />
   <img 
     height="160em" 
